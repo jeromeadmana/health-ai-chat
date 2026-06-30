@@ -1,0 +1,7 @@
+{
+  "tablePrefix": "haic_",
+  "embeddingModel": "text-embedding-3-small",
+  "embeddingDimensions": 1536,
+  "chatModel": "gpt-4o-mini",
+  "retrievalTopK": 6
+}
